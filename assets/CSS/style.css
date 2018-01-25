@@ -1,0 +1,11 @@
+.jumbotron {
+	color: white;
+	background-image: url("../images/bobsled.jpg");
+	min-height: 600px;
+}
+
+.jumbotron p {
+	margin: 100px;
+}
+
+
